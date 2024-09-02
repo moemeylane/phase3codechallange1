@@ -10,7 +10,7 @@ Clone the Repository
 cd -repo-name `phase3codechallange1`
 
 # To run the code
-python your_script_name.py
+python script_name.py
 
 # Summary of Functions and Class
 1. add_numbers
